@@ -1,0 +1,14 @@
+/* .bg-reg {
+    height: 50%;
+    margin-top: 0;
+    background-color: brown;
+} */
+
+body {
+    height: max-content;
+    background-image: linear-gradient(rgb(0, 153, 255), rgb(0, 3, 39));
+}
+
+.reg-card {
+    margin-top: 10%;
+}
